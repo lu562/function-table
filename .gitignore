@@ -14,7 +14,7 @@ docs/*
 
 
 # build directory
-build*/
+
 
 # CMake
 CMakeCache.txt
